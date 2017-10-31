@@ -1,5 +1,5 @@
 package siperka.model;
-
+//abc
 public interface DataLahan {
 
     public void setIDlahan(String id_lahan);
